@@ -16,7 +16,7 @@ const config = {
   url: 'https://bloddy20moon.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Caso02-2024',
+  baseUrl: '/Sesion03/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
