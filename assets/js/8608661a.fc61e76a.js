@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksesi_02=self.webpackChunksesi_02||[]).push([[852],{5848:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/Caso02-2024/blog/tags/facebook","allTagsPath":"/Caso02-2024/blog/tags","count":1,"unlisted":false}')}}]);

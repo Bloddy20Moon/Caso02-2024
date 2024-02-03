@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksesi_02=self.webpackChunksesi_02||[]).push([[584],{7914:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/Caso02-2024/blog/tags/hola","allTagsPath":"/Caso02-2024/blog/tags","count":1,"unlisted":false}')}}]);
